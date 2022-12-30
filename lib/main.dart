@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:contact_manager/screens/splash.dart';
 import 'screens/contact_list_screen.dart';
 import 'screens/contact_screen.dart';
-import 'screens/edit_contact_page.dart';
+import 'screens/edit_contact_screen.dart';
 
 void main() => runApp(MyApp());
 
