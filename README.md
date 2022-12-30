@@ -1,17 +1,3 @@
 # contact_manager
+![Screenshot_20221230_164826](https://user-images.githubusercontent.com/40697299/210072303-d41a2e48-48ea-4f78-8ba0-66e33fb72d5c.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# contact_manager
